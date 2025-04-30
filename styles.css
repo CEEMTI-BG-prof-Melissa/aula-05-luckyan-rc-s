@@ -1,0 +1,40 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+}
+
+header {
+background-color: chartreuse;
+}
+
+nav {
+background-color: brown;
+}
+
+main {
+background-color: orange;
+}
+
+section {
+background-color: aqua;
+}
+
+.article1 {
+background-color: red;
+}
+
+.article2 {
+background-color: purple;
+}
+
+.aside1 {
+background-color: pink;
+}
+
+.aside2 {
+background-color: blue;
+}
+
+footer {
+background-color: yellow;
+}
